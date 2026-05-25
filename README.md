@@ -10,7 +10,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:** `C` • `C++` • `Rust` • `Java` • `Python` • `RISC-V Assembly`  
-**Tools & Libraries:** `Git` • `Linux` • `Docker` • `PyTorch`
+**Tools & Libraries:** `Git` • `Linux` • `Docker` • `PyTorch` • `PostgreSQL`
 
 ## 📂 Mounted Directories
 
@@ -31,7 +31,8 @@
 * 🎬 **Cinephile**
 
 ## Ping Me
-- **LinkedIn**: **[Athanasios (Nasos) Kremantalas](https://www.linkedin.com/in/nasoskrem/)** - **Instagram**: **[@nasoskrem](https://www.instagram.com/nasoskrem/)**
-- **Mail**: [nasoskrem@gmail.com](mailto:nasoskrem@gmail.com)
+- **LinkedIn**: **[Athanasios (Nasos) Kremantalas](https://www.linkedin.com/in/nasoskrem/)** 
+- **Instagram**: **[@nasoskrem](https://www.instagram.com/nasoskrem/)**
+- **Mail**: **[nasoskrem@gmail.com](mailto:nasoskrem@gmail.com)**
 
 <!--- don't be κουτσομπόλης !--->
